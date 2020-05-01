@@ -5,5 +5,5 @@ This is a open soure GUI anyone may use it
 
 
 
-Made:Xavier Nazmi;
-For: whoever wants it;
+Made:Xavier Nazmi
+For: whoever wants it
